@@ -1,4 +1,4 @@
-# NLP-Sentiment_Analysis_with_Wikipedia_Dataset
+#  NLP-Sentiment_Analysis_with_Wikipedia_Dataset
 
 ![image](https://github.com/Vedatgul/NLP-Analysis_with_Wikipedia_Dataset/assets/124357663/c42dc9e7-80f3-44a5-809a-bf6c1bb289e6)
 
